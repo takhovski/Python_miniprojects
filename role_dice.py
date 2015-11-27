@@ -8,7 +8,7 @@ def role_dice():
 ###
 cond = "TRUE" # Condition for the while loop
 while cond == "TRUE":
-    role = str(input('Do you wanna role die? (To Role type yes)')) 
+    role = str(input('Do you wanna role the dice? (To Role type yes)')) 
     role = role.upper()
     if role == 'YES':
         role_dice()
