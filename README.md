@@ -1,6 +1,7 @@
 # Python_miniprojects
 This is a set of educational mini projects in python.
-Project 1: Roling a Dice.
+Project 1: Rolling a Dice.
+Project 2: Computer generates a random number. User has to guess it.
 -----------------------
 It's about making a dice! It touches on simple concepts such as printing and random number and while and if.
 Source for the projects:
